@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.giu-berlin</groupId>
-	<artifactId>acl.lab1</artifactId>
+	<artifactId>acl.lab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>acl.lab1</name>
-	<description>Lab 1 Project</description>
+	<name>acl.lab</name>
+	<description>Lab Project</description>
 	<url/>
 	<licenses>
 		<license/>
