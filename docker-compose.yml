@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    ports:
+      - "4044-4049:8080"
+    environment:
+      NAME: "Docker Compose Fadlurahman Walid"
+    scale: 5
