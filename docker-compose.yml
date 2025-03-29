@@ -2,6 +2,7 @@ services:
   app:
     build: .
     ports:
-      - "4040-4049:8080"
+      - "4044-4049:8080"
     environment:
-      NAME: "Docker Compose"
+      NAME: "Docker Compose Fadlurahman Walid"
+    scale: 5
