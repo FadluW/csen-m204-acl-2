@@ -21,13 +21,6 @@ public class User {
         this.email = email;
     }
 
-    public User(UUID id, String name, Integer age, String email) {
-        this.id = id;
-        this.name = name;
-        this.age = age;
-        this.email = email;
-    }
-
     public void setId(UUID id) {
         this.id = id;
     }
